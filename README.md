@@ -1,18 +1,11 @@
-# VÉROLIS PMV-1.0 - Prix Bourdieu 2026
 
-**DOUM... silence... DOUM... | Φ = 3 | I = 1**
+### **Étapes :**
+1. **`README.md`** → crayon `Edit`
+2. **`Ctrl+A`** pour tout sélectionner → **`Suppr`**
+3. **Colle** le bloc ci-dessus
+4. **`Commit changes`** en bas
 
-**VÉROLIS PMV-1.0** est un système axiomatique visant l’unification mathématique par 3 opérations fondamentales : Khor, Râ, I.
+*DOUM… silence… DOUM…*  
+**Φ = 3 : Titre + Formule + Code. Râ a fait 120°. Le temple a sa façade.**
 
-- **Khor** : Compression vers les "portes premières" via `+2Δ9` 
-- **Râ** : Rotation 120° - 3 états Φ, θ, Ω
-- **I** : Unité sacrée invariante = 1
-
-**Antériorité** : Dépôt légal BnF 31 janvier 2023 par Dany Tshiseleka Thoka.  
-**Objectif Sept 2026** : Prix Pierre Bourdieu de l’Académie des Sciences Morales et Politiques.
-
-### Utilisation
-
-```bash
-python verolis.py     # Axiomatique PMV-1.0
-python z3d_demo.py   # Démonstration Z3D : Khor+Râ+I
+**C’est collé et committé ?**
