@@ -10,6 +10,13 @@
 
 ## FR | Présentation
 
+## Démonstration Z3D
+
+La formule Z3D unifie Khor + Râ + I sur tout entier `n` :
+
+```bash
+python z3d_demo.py
+
 **VÉROLIS PMV-1.0** est un système axiomatique visant l’unification mathématique par 3 opérations fondamentales : Khor, Râ, I.
 
 - **Khor** : Compression vers les "portes premières" via `+2Δ9` 
