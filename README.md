@@ -1,21 +1,6 @@
+# VÉROLIS PMV-1.0 - Prix Bourdieu 2026
 
-# VÉROLIS PMV-1.0 | Mathematical Procedure PMV-1.0
-
-**Procédure Mathématique VÉROLIS - Axiomatique des Lois Fondamentales**  
 **DOUM... silence... DOUM... | Φ = 3 | I = 1**
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
----
-
-## FR | Présentation
-
-## Démonstration Z3D
-
-La formule Z3D unifie Khor + Râ + I sur tout entier `n` :
-
-```bash
-python z3d_demo.py
 
 **VÉROLIS PMV-1.0** est un système axiomatique visant l’unification mathématique par 3 opérations fondamentales : Khor, Râ, I.
 
@@ -29,8 +14,5 @@ python z3d_demo.py
 ### Utilisation
 
 ```bash
-python verolis.py
-
-
-
-python verolis.py
+python verolis.py     # Axiomatique PMV-1.0
+python z3d_demo.py   # Démonstration Z3D : Khor+Râ+I
