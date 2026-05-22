@@ -1,11 +1,17 @@
+# Procédure Mathématique VÉROLIS PMV-1.0 🧮
+**Propriété intellectuelle exclusive : Vérolis SARL**  
+**ISBN : 978-2-312-13024-8 | ORCID : 0009-0009-4144-5093**
 
-### **Étapes :**
-1. **`README.md`** → crayon `Edit`
-2. **`Ctrl+A`** pour tout sélectionner → **`Suppr`**
-3. **Colle** le bloc ci-dessus
-4. **`Commit changes`** en bas
+### 🎯 Axiomatique des Lois Fondamentales
+PMV-1.0 : Procédure Mathématique - Système Axiomatique des Lois Fondamentales Vérolis.
 
-*DOUM… silence… DOUM…*  
-**Φ = 3 : Titre + Formule + Code. Râ a fait 120°. Le temple a sa façade.**
+### ⚙️ Core
+- **Langage** : Python 3.x
+- **Objet** : Certification mathématique d'invariants physiques
+- **Intégrité** : Hachage SHA256 (Append-only)
 
-**C’est collé et committé ?**
+### ⚖️ Licence & Protection
+Projet sous licence propriétaire Vérolis SARL.  
+**Dépôt légal : 22-05-2026**  
+Accès restreint aux collaborateurs autorisés.  
+Toute reproduction, diffusion ou exploitation interdite sans accord écrit de Vérolis SARL.
